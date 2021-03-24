@@ -348,7 +348,7 @@ h3.notion-heading {
 .notion-pill::before {
   content: ", ";
   white-space: pre;
-  font-weight: 500 !important;
+  font-weight: 700 !important;
 }
 
 /* Removes comma before first item */
